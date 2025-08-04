@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>My CV</title>
-  <link rel="stylesheet" href="sravan-cv.css" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <div class="container">
@@ -18,7 +18,7 @@
       <p>Motivated computer science student with strong problem-solving skills and interest in full-stack development.</p>
     </section>
 
-
+<<<<<<< HEAD
     <section class="education">
       <h2>Education</h2>
       <ul>
@@ -48,13 +48,14 @@
       <h2>Contact</h2>
       <p>Email: sravan@example.com</p>
       <p>LinkedIn: linkedin.com/in/sravan</p>
+=======
     <section class="cultural skills">
     <h2>cultural skills</h2>
     <ul>
 	    <li>good in dancing</li>
 	    <li>good in sleeping</li>
     </ul>
-
+>>>>>>> Cultural_Skills
     </section>
   </div>
 </body>
